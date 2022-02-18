@@ -1,7 +1,5 @@
-This is a simple landing page Ableton.
+You can find this project at the following URL:
 
-It is one of the first part of my coding portfolio.
-
-A live link to the project can be found here: https://rehjii-martin.github.io/product_landing_page/
+### [Product Landing Page](https://rehjii-martin.github.io/product_landing_page/)
 
 Enjoy!
